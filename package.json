@@ -2,6 +2,7 @@
   "name": "conduit",
   "version": "17.0.0",
   "license": "MIT",
+  "homepage": "https://nikhil618.github.io/ng-layouter/",
   "scripts": {
     "ng": "nx",
     "nx": "nx",
